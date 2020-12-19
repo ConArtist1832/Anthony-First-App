@@ -1,3 +1,2 @@
  # Anthony-First-App
-Welcome to my first app
-This is my second comment
+This is a comment I made on Saturaday night
